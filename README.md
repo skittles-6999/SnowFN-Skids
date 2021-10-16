@@ -1,6 +1,8 @@
 <strong>SNOWFN
 </strong>
-
+<div>
+REPL LINK: https://replit.com/@wfiuifwufaif/
+</div>
 <div>
 ANTICHEAT - ONIZUKAFN
 </div>
