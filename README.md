@@ -13,9 +13,9 @@ LAUNCHER - OLD SIMBADEV
 <div>
 -----------------------
 </div>
-
+<div>
 <strong>BACKENDS
-</strong>
+</strong></div>
 NEONITE - https://github.com/NeoniteDev/NeoniteV2
 </div>
 <div align="left">
