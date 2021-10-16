@@ -15,11 +15,14 @@ ZPX.DEV - https://github.com/Zaspx/ZPX.Dev
 </div>
 --------------------------------------
 </div>
+</div>
 STORM - https://github.com/StormFNDev/StormFN-Backend
 <div align="left">
     <img src="https://confighub.photos/images/SjfxeWLb5f7mPzJEfURI2Urjm.png?size=512" style"width: 100%;border-radius:15px"> 
 </div>
+</div>
 --------------------------------------
+</div>
 </div>
 STORM - https://github.com/StormFNDev/StormFN-Backend
 <div align="left">
