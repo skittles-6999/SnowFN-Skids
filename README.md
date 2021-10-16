@@ -3,7 +3,7 @@ NEONITE
 <div align="left">
   <img src="https://confighub.photos/images/wm2iAFjAWmA3qzGIXhWu4MTGM.png?size=512" style"width: 100%;border-radius:10px">  
 </div>
-FROSTNITE
+FROSTNITE - 
 <div align="left">
     <img src="https://confighub.photos/images/Q514FMQg4xMsfIz7BUcfITBJO.png?size=512" style"width: 100%;border-radius:15px"> 
 </div>
